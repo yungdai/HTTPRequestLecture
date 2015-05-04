@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A383DBD-E39A-4B91-AC74-983DAE729E0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HTTPRequestLecture</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</key>
+		<string>https://github.com/yungdai/HTTPRequestLecture.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HTTPRequestLecture.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yungdai/HTTPRequestLecture.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HTTPRequestLecture</string>
+		</dict>
+	</array>
+</dict>
+</plist>
