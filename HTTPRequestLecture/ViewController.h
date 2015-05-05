@@ -15,6 +15,7 @@
 @property (strong, nonatomic) HTTPCommunication *http;
 @property (strong, nonatomic) NSNumber *responseID;
 @property (strong, nonatomic) IBOutlet UILabel *jokeLabel;
+@property (strong, nonatomic) NSMutableArray *stationName;
 
 
 
