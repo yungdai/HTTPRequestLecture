@@ -17,6 +17,7 @@
 @property (strong, nonatomic) IBOutlet UILabel *jokeLabel;
 
 
+
 @property (strong,nonatomic) MKMapView *mapView;
 
 - (IBAction)getJokeWhenButtonPresssed:(id)sender;

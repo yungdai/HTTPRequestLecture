@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>6A383DBD-E39A-4B91-AC74-983DAE729E0B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>HTTPRequestLecture</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</key>
 		<string>https://github.com/yungdai/HTTPRequestLecture.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HTTPRequestLecture.xcodeproj</string>
+	<string>HTTPRequestLecture.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1DBF851F25DBD43FA39E5A263A5A0C9ADE71438F</key>
