@@ -440,6 +440,7 @@
 				1A9706361AF7B87B005CDDB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A9706371AF7B87B005CDDB2 /* Build configuration list for PBXNativeTarget "HTTPRequestLectureTests" */ = {
 			isa = XCConfigurationList;
@@ -448,6 +449,7 @@
 				1A9706391AF7B87B005CDDB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
